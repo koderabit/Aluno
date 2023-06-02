@@ -35,3 +35,5 @@ O projeto segue a arquitetura MVC, que divide a aplicação em três componentes
 
 Aqui estão dois screenshots do projeto em funcionamento:
 
+![Tela inicial do projeto](tela-inicial.png)    ![Tela de consulta dos alunos cadastrados](tela-consulta.png)
+
